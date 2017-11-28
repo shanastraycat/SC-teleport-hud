@@ -19,7 +19,7 @@ All you need is the script to get started,just drop it into a prim on SL(Secndli
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details
 
 
 

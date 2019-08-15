@@ -1,4 +1,4 @@
-# -SC-teleport-hud
+# SC-teleport-hud
 
 This script can be use to make teleport hud.
 

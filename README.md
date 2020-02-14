@@ -20,7 +20,7 @@ All you need is the script to get started,just drop it into a prim on SL(Secndli
 
 ## Authors
 
-* **ShanaPearson AKA Straycat**- [ShanaPearson](https://github.com/shanastraycat)
+* **Shana AKA Straycat**- [ShanaStraycat](https://github.com/shanastraycat)
 
 ## License
 
